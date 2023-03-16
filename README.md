@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles, Departments, Teams,etc
 - Allow all users to create tickets
 - Setup Tickets as Admin/ Agent
-- Configure Service License Agreements
+- Configure Service Level Agreements
 
 <h2>Configuration Steps</h2>
 
