@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 Once the Osticket software is installed and ready to use, you will need to configure Roles, Teams, Departments, Users and etc. You will also assign
-permissions and access to users using Administrative settings.
+permissions and access to users using administrative settings.
 </p>
 <br />
 
