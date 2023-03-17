@@ -39,7 +39,7 @@ permissions and access to users using administrative settings.
 <img src="https://i.imgur.com/T8V8KH9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-TEXT GOES HERE
+This is the inside process of setting up a Service Level Agreement between the client and the agent.
 </p>
 <br />
 
