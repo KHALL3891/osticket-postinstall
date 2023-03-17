@@ -39,9 +39,9 @@ permissions and access to users using administrative settings.
 <img src="https://i.imgur.com/T8V8KH9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is the inside process of setting up a Service Level Agreement between the client and the agent. Here is where the agent/admin can set the priority level of issuse
-  
-</p>
+This is the inside process of setting up a Service Level Agreement between the client and the agent. Here is where the agent/admin can set the priority level of
+an issue and the grace period (How long before issue needs to resolved), as well as how long the issue is available to worked on.
+  </p>
 <br />
 
 <p>
